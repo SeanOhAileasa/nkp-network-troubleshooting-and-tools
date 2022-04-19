@@ -24,6 +24,10 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 - [Software Tools](https://nbviewer.org/github/SeanOhAileasa/nkp-network-troubleshooting-and-tools/blob/main/rc/network-tools/nkp-software-tools.ipynb) <br/>
 - [Command Line Tools](https://nbviewer.org/github/SeanOhAileasa/nkp-network-troubleshooting-and-tools/blob/main/rc/network-tools/nkp-command-line-tools.ipynb) <br/>
 
+##### ``Wired Network Troubleshooting``
+
+- [Wired Network Troubleshooting](https://nbviewer.org/github/SeanOhAileasa/nkp-network-troubleshooting-and-tools/blob/main/rc/wired-network-troubleshooting/nkp-wired-network-troubleshooting.ipynb) <br/>
+
 ## Credits
 
 J. "Professor" Messer, "CompTIA Network+ (N10-007) Course Notes," [professormesser.com](https://web.archive.org/web/20220404153917/https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/), March 2019.

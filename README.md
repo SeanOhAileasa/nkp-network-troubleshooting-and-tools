@@ -30,7 +30,11 @@ Recommend viewing using the ``nbviewer`` links below (click on the associated ``
 
 ##### ``Wireless Network Troubleshooting``
 
-- [Wireless Network Troubleshooting](https://nbviewer.org/github/SeanOhAileasa/nkp-network-troubleshooting-and-tools/blob/main/rc/wired-network-troubleshooting/nkp-wireless-network-troubleshooting.ipynb) <br/>
+- [Wireless Network Troubleshooting](https://nbviewer.org/github/SeanOhAileasa/nkp-network-troubleshooting-and-tools/blob/main/rc/wireless-network-troubleshooting/nkp-wireless-network-troubleshooting.ipynb) <br/>
+
+##### ``Network Service Troubleshooting``
+
+- [Network Service Troubleshooting](https://nbviewer.org/github/SeanOhAileasa/nkp-network-troubleshooting-and-tools/blob/main/rc/network-service-troubleshooting/nkp-network-service-troubleshooting.ipynb) <br/>
 
 ## Credits
 
